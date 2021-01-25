@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/p2.dir/P2.cpp.o"
-  "CMakeFiles/p2.dir/clusterP.cpp.o"
-  "CMakeFiles/p2.dir/nearPrime.cpp.o"
+  "CMakeFiles/p2.dir/P2/P2.cpp.o"
+  "CMakeFiles/p2.dir/P2/clusterP.cpp.o"
+  "CMakeFiles/p2.dir/P2/nearPrime.cpp.o"
   "p2"
   "p2.pdb"
 )

@@ -143,86 +143,86 @@ p2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/build
 .PHONY : p2/fast
 
-P2.o: P2.cpp.o
+P2/P2.o: P2/P2.cpp.o
 
-.PHONY : P2.o
-
-# target to build an object file
-P2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2.cpp.o
-.PHONY : P2.cpp.o
-
-P2.i: P2.cpp.i
-
-.PHONY : P2.i
-
-# target to preprocess a source file
-P2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2.cpp.i
-.PHONY : P2.cpp.i
-
-P2.s: P2.cpp.s
-
-.PHONY : P2.s
-
-# target to generate assembly for a file
-P2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2.cpp.s
-.PHONY : P2.cpp.s
-
-clusterP.o: clusterP.cpp.o
-
-.PHONY : clusterP.o
+.PHONY : P2/P2.o
 
 # target to build an object file
-clusterP.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/clusterP.cpp.o
-.PHONY : clusterP.cpp.o
+P2/P2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2/P2.cpp.o
+.PHONY : P2/P2.cpp.o
 
-clusterP.i: clusterP.cpp.i
+P2/P2.i: P2/P2.cpp.i
 
-.PHONY : clusterP.i
+.PHONY : P2/P2.i
 
 # target to preprocess a source file
-clusterP.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/clusterP.cpp.i
-.PHONY : clusterP.cpp.i
+P2/P2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2/P2.cpp.i
+.PHONY : P2/P2.cpp.i
 
-clusterP.s: clusterP.cpp.s
+P2/P2.s: P2/P2.cpp.s
 
-.PHONY : clusterP.s
+.PHONY : P2/P2.s
 
 # target to generate assembly for a file
-clusterP.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/clusterP.cpp.s
-.PHONY : clusterP.cpp.s
+P2/P2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2/P2.cpp.s
+.PHONY : P2/P2.cpp.s
 
-nearPrime.o: nearPrime.cpp.o
+P2/clusterP.o: P2/clusterP.cpp.o
 
-.PHONY : nearPrime.o
+.PHONY : P2/clusterP.o
 
 # target to build an object file
-nearPrime.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/nearPrime.cpp.o
-.PHONY : nearPrime.cpp.o
+P2/clusterP.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2/clusterP.cpp.o
+.PHONY : P2/clusterP.cpp.o
 
-nearPrime.i: nearPrime.cpp.i
+P2/clusterP.i: P2/clusterP.cpp.i
 
-.PHONY : nearPrime.i
+.PHONY : P2/clusterP.i
 
 # target to preprocess a source file
-nearPrime.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/nearPrime.cpp.i
-.PHONY : nearPrime.cpp.i
+P2/clusterP.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2/clusterP.cpp.i
+.PHONY : P2/clusterP.cpp.i
 
-nearPrime.s: nearPrime.cpp.s
+P2/clusterP.s: P2/clusterP.cpp.s
 
-.PHONY : nearPrime.s
+.PHONY : P2/clusterP.s
 
 # target to generate assembly for a file
-nearPrime.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/nearPrime.cpp.s
-.PHONY : nearPrime.cpp.s
+P2/clusterP.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2/clusterP.cpp.s
+.PHONY : P2/clusterP.cpp.s
+
+P2/nearPrime.o: P2/nearPrime.cpp.o
+
+.PHONY : P2/nearPrime.o
+
+# target to build an object file
+P2/nearPrime.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2/nearPrime.cpp.o
+.PHONY : P2/nearPrime.cpp.o
+
+P2/nearPrime.i: P2/nearPrime.cpp.i
+
+.PHONY : P2/nearPrime.i
+
+# target to preprocess a source file
+P2/nearPrime.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2/nearPrime.cpp.i
+.PHONY : P2/nearPrime.cpp.i
+
+P2/nearPrime.s: P2/nearPrime.cpp.s
+
+.PHONY : P2/nearPrime.s
+
+# target to generate assembly for a file
+P2/nearPrime.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/p2.dir/build.make CMakeFiles/p2.dir/P2/nearPrime.cpp.s
+.PHONY : P2/nearPrime.cpp.s
 
 # Help Target
 help:
@@ -233,15 +233,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... p2"
-	@echo "... P2.o"
-	@echo "... P2.i"
-	@echo "... P2.s"
-	@echo "... clusterP.o"
-	@echo "... clusterP.i"
-	@echo "... clusterP.s"
-	@echo "... nearPrime.o"
-	@echo "... nearPrime.i"
-	@echo "... nearPrime.s"
+	@echo "... P2/P2.o"
+	@echo "... P2/P2.i"
+	@echo "... P2/P2.s"
+	@echo "... P2/clusterP.o"
+	@echo "... P2/clusterP.i"
+	@echo "... P2/clusterP.s"
+	@echo "... P2/nearPrime.o"
+	@echo "... P2/nearPrime.i"
+	@echo "... P2/nearPrime.s"
 .PHONY : help
 
 

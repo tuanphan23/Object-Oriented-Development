@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/tuanphan/CLionProjects/p2/P2.cpp
+/Users/tuanphan/CLionProjects/p2/P2/P2.cpp
 clusterP.h
-/Users/tuanphan/CLionProjects/p2/clusterP.h
+/Users/tuanphan/CLionProjects/p2/P2/clusterP.h
 iostream
 -
 random
@@ -20,9 +20,23 @@ memory
 utility
 -
 
-/Users/tuanphan/CLionProjects/p2/clusterP.h
-nearPrime.h
-/Users/tuanphan/CLionProjects/p2/nearPrime.h
+/Users/tuanphan/CLionProjects/p2/P2/clusterP.cpp
+clusterP.h
+/Users/tuanphan/CLionProjects/p2/P2/clusterP.h
+iostream
+-
+unordered_set
+-
 
-/Users/tuanphan/CLionProjects/p2/nearPrime.h
+/Users/tuanphan/CLionProjects/p2/P2/clusterP.h
+nearPrime.h
+/Users/tuanphan/CLionProjects/p2/P2/nearPrime.h
+
+/Users/tuanphan/CLionProjects/p2/P2/nearPrime.cpp
+nearPrime.h
+/Users/tuanphan/CLionProjects/p2/P2/nearPrime.h
+iostream
+-
+
+/Users/tuanphan/CLionProjects/p2/P2/nearPrime.h
 

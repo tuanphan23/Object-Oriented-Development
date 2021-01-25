@@ -3,4 +3,4 @@ project(p2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(p2 P2.cpp nearPrime.cpp nearPrime.h clusterP.cpp clusterP.h)
+add_executable(p2 P2/P2.cpp P2/nearPrime.cpp P2/nearPrime.h P2/clusterP.cpp P2/clusterP.h)

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tuanphan/CLionProjects/p2/P2.cpp" "/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles/p2.dir/P2.cpp.o"
-  "/Users/tuanphan/CLionProjects/p2/clusterP.cpp" "/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles/p2.dir/clusterP.cpp.o"
-  "/Users/tuanphan/CLionProjects/p2/nearPrime.cpp" "/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles/p2.dir/nearPrime.cpp.o"
+  "/Users/tuanphan/CLionProjects/p2/P2/P2.cpp" "/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles/p2.dir/P2/P2.cpp.o"
+  "/Users/tuanphan/CLionProjects/p2/P2/clusterP.cpp" "/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles/p2.dir/P2/clusterP.cpp.o"
+  "/Users/tuanphan/CLionProjects/p2/P2/nearPrime.cpp" "/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles/p2.dir/P2/nearPrime.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

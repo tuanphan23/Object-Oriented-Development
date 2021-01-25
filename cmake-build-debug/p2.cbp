@@ -80,19 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/tuanphan/CLionProjects/p2/P2.cpp">
+		<Unit filename="/Users/tuanphan/CLionProjects/p2/P2/P2.cpp">
 			<Option target="p2"/>
 		</Unit>
-		<Unit filename="/Users/tuanphan/CLionProjects/p2/clusterP.cpp">
+		<Unit filename="/Users/tuanphan/CLionProjects/p2/P2/clusterP.cpp">
 			<Option target="p2"/>
 		</Unit>
-		<Unit filename="/Users/tuanphan/CLionProjects/p2/clusterP.h">
+		<Unit filename="/Users/tuanphan/CLionProjects/p2/P2/clusterP.h">
 			<Option target="p2"/>
 		</Unit>
-		<Unit filename="/Users/tuanphan/CLionProjects/p2/nearPrime.cpp">
+		<Unit filename="/Users/tuanphan/CLionProjects/p2/P2/nearPrime.cpp">
 			<Option target="p2"/>
 		</Unit>
-		<Unit filename="/Users/tuanphan/CLionProjects/p2/nearPrime.h">
+		<Unit filename="/Users/tuanphan/CLionProjects/p2/P2/nearPrime.h">
 			<Option target="p2"/>
 		</Unit>
 		<Unit filename="/Users/tuanphan/CLionProjects/p2/CMakeLists.txt">

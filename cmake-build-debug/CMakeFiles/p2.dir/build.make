@@ -77,57 +77,57 @@ include CMakeFiles/p2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/p2.dir/flags.make
 
-CMakeFiles/p2.dir/P2.cpp.o: CMakeFiles/p2.dir/flags.make
-CMakeFiles/p2.dir/P2.cpp.o: ../P2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/p2.dir/P2.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/p2.dir/P2.cpp.o -c /Users/tuanphan/CLionProjects/p2/P2.cpp
+CMakeFiles/p2.dir/P2/P2.cpp.o: CMakeFiles/p2.dir/flags.make
+CMakeFiles/p2.dir/P2/P2.cpp.o: ../P2/P2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/p2.dir/P2/P2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/p2.dir/P2/P2.cpp.o -c /Users/tuanphan/CLionProjects/p2/P2/P2.cpp
 
-CMakeFiles/p2.dir/P2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p2.dir/P2.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tuanphan/CLionProjects/p2/P2.cpp > CMakeFiles/p2.dir/P2.cpp.i
+CMakeFiles/p2.dir/P2/P2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p2.dir/P2/P2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tuanphan/CLionProjects/p2/P2/P2.cpp > CMakeFiles/p2.dir/P2/P2.cpp.i
 
-CMakeFiles/p2.dir/P2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p2.dir/P2.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tuanphan/CLionProjects/p2/P2.cpp -o CMakeFiles/p2.dir/P2.cpp.s
+CMakeFiles/p2.dir/P2/P2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p2.dir/P2/P2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tuanphan/CLionProjects/p2/P2/P2.cpp -o CMakeFiles/p2.dir/P2/P2.cpp.s
 
-CMakeFiles/p2.dir/nearPrime.cpp.o: CMakeFiles/p2.dir/flags.make
-CMakeFiles/p2.dir/nearPrime.cpp.o: ../nearPrime.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/p2.dir/nearPrime.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/p2.dir/nearPrime.cpp.o -c /Users/tuanphan/CLionProjects/p2/nearPrime.cpp
+CMakeFiles/p2.dir/P2/nearPrime.cpp.o: CMakeFiles/p2.dir/flags.make
+CMakeFiles/p2.dir/P2/nearPrime.cpp.o: ../P2/nearPrime.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/p2.dir/P2/nearPrime.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/p2.dir/P2/nearPrime.cpp.o -c /Users/tuanphan/CLionProjects/p2/P2/nearPrime.cpp
 
-CMakeFiles/p2.dir/nearPrime.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p2.dir/nearPrime.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tuanphan/CLionProjects/p2/nearPrime.cpp > CMakeFiles/p2.dir/nearPrime.cpp.i
+CMakeFiles/p2.dir/P2/nearPrime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p2.dir/P2/nearPrime.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tuanphan/CLionProjects/p2/P2/nearPrime.cpp > CMakeFiles/p2.dir/P2/nearPrime.cpp.i
 
-CMakeFiles/p2.dir/nearPrime.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p2.dir/nearPrime.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tuanphan/CLionProjects/p2/nearPrime.cpp -o CMakeFiles/p2.dir/nearPrime.cpp.s
+CMakeFiles/p2.dir/P2/nearPrime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p2.dir/P2/nearPrime.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tuanphan/CLionProjects/p2/P2/nearPrime.cpp -o CMakeFiles/p2.dir/P2/nearPrime.cpp.s
 
-CMakeFiles/p2.dir/clusterP.cpp.o: CMakeFiles/p2.dir/flags.make
-CMakeFiles/p2.dir/clusterP.cpp.o: ../clusterP.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/p2.dir/clusterP.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/p2.dir/clusterP.cpp.o -c /Users/tuanphan/CLionProjects/p2/clusterP.cpp
+CMakeFiles/p2.dir/P2/clusterP.cpp.o: CMakeFiles/p2.dir/flags.make
+CMakeFiles/p2.dir/P2/clusterP.cpp.o: ../P2/clusterP.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/p2.dir/P2/clusterP.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/p2.dir/P2/clusterP.cpp.o -c /Users/tuanphan/CLionProjects/p2/P2/clusterP.cpp
 
-CMakeFiles/p2.dir/clusterP.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p2.dir/clusterP.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tuanphan/CLionProjects/p2/clusterP.cpp > CMakeFiles/p2.dir/clusterP.cpp.i
+CMakeFiles/p2.dir/P2/clusterP.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p2.dir/P2/clusterP.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tuanphan/CLionProjects/p2/P2/clusterP.cpp > CMakeFiles/p2.dir/P2/clusterP.cpp.i
 
-CMakeFiles/p2.dir/clusterP.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p2.dir/clusterP.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tuanphan/CLionProjects/p2/clusterP.cpp -o CMakeFiles/p2.dir/clusterP.cpp.s
+CMakeFiles/p2.dir/P2/clusterP.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p2.dir/P2/clusterP.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tuanphan/CLionProjects/p2/P2/clusterP.cpp -o CMakeFiles/p2.dir/P2/clusterP.cpp.s
 
 # Object files for target p2
 p2_OBJECTS = \
-"CMakeFiles/p2.dir/P2.cpp.o" \
-"CMakeFiles/p2.dir/nearPrime.cpp.o" \
-"CMakeFiles/p2.dir/clusterP.cpp.o"
+"CMakeFiles/p2.dir/P2/P2.cpp.o" \
+"CMakeFiles/p2.dir/P2/nearPrime.cpp.o" \
+"CMakeFiles/p2.dir/P2/clusterP.cpp.o"
 
 # External object files for target p2
 p2_EXTERNAL_OBJECTS =
 
-p2: CMakeFiles/p2.dir/P2.cpp.o
-p2: CMakeFiles/p2.dir/nearPrime.cpp.o
-p2: CMakeFiles/p2.dir/clusterP.cpp.o
+p2: CMakeFiles/p2.dir/P2/P2.cpp.o
+p2: CMakeFiles/p2.dir/P2/nearPrime.cpp.o
+p2: CMakeFiles/p2.dir/P2/clusterP.cpp.o
 p2: CMakeFiles/p2.dir/build.make
 p2: CMakeFiles/p2.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tuanphan/CLionProjects/p2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable p2"
