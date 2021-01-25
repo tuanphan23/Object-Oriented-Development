@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tuanphan/CLionProjects/p2/P2.cpp
+clusterP.h
+/Users/tuanphan/CLionProjects/p2/clusterP.h
+iostream
+-
+random
+-
+vector
+-
+memory
+-
+utility
+-
+
+/Users/tuanphan/CLionProjects/p2/clusterP.h
+nearPrime.h
+/Users/tuanphan/CLionProjects/p2/nearPrime.h
+
+/Users/tuanphan/CLionProjects/p2/nearPrime.h
+
