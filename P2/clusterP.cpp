@@ -108,7 +108,7 @@ unsigned int clusterP::getPrimeArray(int start, int end, unsigned int **primeArr
         if(count == size) {
             size *= 2;
             unsigned int* temp = new unsigned int[size];
-            for(int k = 0; k < count; k++) {
+            for(unsigned int k = 0; k < count; k++) {
                 temp[k] = primeNumbers[k];
             }
             delete[] primeNumbers;
